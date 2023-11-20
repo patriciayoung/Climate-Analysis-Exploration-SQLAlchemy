@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 
 Version of SQLAlchemy I am running is 1.4.3
-This high the needed to know when running the Jupyter notebook.
+This might be needed when running the Jupyter notebook.
 
 SurfsUp directory contains climate.ipynb Jupyter Notebook, app.py Python scrip, and a Resources folder that contains the hawaii.sqlite database, hawaii_measurements.csv, and hawaii_stations.csv.
 
