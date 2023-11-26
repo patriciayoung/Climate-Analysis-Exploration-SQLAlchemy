@@ -19,7 +19,7 @@ Station Analysis: All stations and their number counts were listed in desc order
 
 Part 2: Design Your Climate App
 
-A Climate API was created using Flask. The following 5 routes are available routes created using Flask:
+A Climate API was created using Flask. The following 5 routes are available routes created using Flask: using VS Code (had an issue getting connected to sqlalchemy and sqlite - had to use import os and 3 series of commands to get things working properly)
 
 1. / (Homepage)
 Start at the homepage.
